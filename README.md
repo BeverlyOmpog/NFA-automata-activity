@@ -1,4 +1,4 @@
-# NFA Recognizer
+# NFA ACTIVITY
 
 **Student Name:** Beverly Ninute S. Ompog  
 **Course & Section:** 3-BSCS-A  
