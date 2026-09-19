@@ -7,7 +7,8 @@
 ![Handwritten NFA Diagram](nfa-diagram.jpg)
 
 
-MINIMIZATION 
+MINIMIZATION
+
 **Student Name:** Beverly Nicole S. Ompog  
 **Course & Section:** 3-BSCS-A  
 
